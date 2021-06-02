@@ -1,2 +1,3 @@
-# dotfiles
-default settings
+# Dotfiles
+
+Default settings for projects
